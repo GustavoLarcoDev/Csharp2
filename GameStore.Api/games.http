@@ -8,9 +8,9 @@ POST http://localhost:5095/games
 Content-Type: application/json
 
 {
-    "name": " RingElder RingElder RingElder Ring",
-    "genre": "Kids and Familia",
-    "price": 99.99,
+    "name": " Fortnite",
+    "genreId": 3,
+    "price": 39.99,
     "releaseDate": "2011-11-18"
 }
 
@@ -21,9 +21,9 @@ Content-Type: application/json
 
 {
   "id": 1,
-  "name": "Street Fighter II Load",
-  "genre": "Fightig",
-  "price": 9.99,
+  "name": "Outlast",
+  "genreId": 2,
+  "price": 15.30,
   "releaseDate": "1992-07-15"
 }
 

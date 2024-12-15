@@ -42,7 +42,6 @@ C:\Users\Gustavo\projects\GameStore\GameStore.Api\bin\Debug\net9.0\Microsoft.Ext
 C:\Users\Gustavo\projects\GameStore\GameStore.Api\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
 C:\Users\Gustavo\projects\GameStore\GameStore.Api\bin\Debug\net9.0\SQLitePCLRaw.core.dll
 C:\Users\Gustavo\projects\GameStore\GameStore.Api\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
-C:\Users\Gustavo\projects\GameStore\GameStore.Api\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
 C:\Users\Gustavo\projects\GameStore\GameStore.Api\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
 C:\Users\Gustavo\projects\GameStore\GameStore.Api\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
 C:\Users\Gustavo\projects\GameStore\GameStore.Api\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
@@ -145,3 +144,4 @@ C:\Users\Gustavo\projects\GameStore\GameStore.Api\bin\Debug\net9.0\ru\Microsoft.
 C:\Users\Gustavo\projects\GameStore\GameStore.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Gustavo\projects\GameStore\GameStore.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Gustavo\projects\GameStore\GameStore.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Gustavo\projects\GameStore\GameStore.Api\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
